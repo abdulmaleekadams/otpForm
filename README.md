@@ -2,6 +2,8 @@
 
 This project implements a simple OTP (One-Time Password) verification form. Users can enter a 4-digit OTP code for verification.
 
+![preview img](/preview.png)
+
 ## Table of Contents
 
 - [About](#about)
